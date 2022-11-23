@@ -30,7 +30,7 @@ global.ownername = "Cypher-bot"
 global.linkz = "https://www.youtube.com/watch?v=XHJqEqum1sk" //your theme url which will be displayed on whatsapp
 global.websitex = "http://www.gcuh.edu.pk/" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🫡" //ur theme emoji
+global.themeemoji = "😇" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Cypher-bot" //ur sticker watermark author
 global.wm = "Cypher-bot" //ur watermark
