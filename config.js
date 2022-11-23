@@ -14,33 +14,33 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['923121929845'] //ur owner number
+global.ownername = "Cypher-Bot" //ur owner name
+global.ytname = "Cypher-bot" //ur yt chanel name
+global.socialm = "Cypher-bot" //ur github or insta name
+global.location = "pakistan, Sindh, Hyderabad" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['923167203631'] //ur number
+global.ownernomer = "923167203631" //ur number
+global.ownertag = '923167203631' //ur tag number
+global.premium = ['923167203631'] //ur premium number
+global.botname = 'Cypher-bot' //ur bot name
+global.ownername = "Cypher-bot"
+global.linkz = "https://www.youtube.com/watch?v=XHJqEqum1sk" //your theme url which will be displayed on whatsapp
+global.websitex = "http://www.gcuh.edu.pk/" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "🫡" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.author = "Cypher-bot" //ur sticker watermark author
+global.wm = "Cypher-bot" //ur watermark
 
 // Other
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Done✓',
+    success: 'Done✓ Dear',
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
@@ -48,7 +48,7 @@ global.mess = {
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'In process...',
+    wait: 'please wait Dear',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
